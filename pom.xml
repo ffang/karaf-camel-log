@@ -32,7 +32,7 @@
 
     <!-- configure the versions you want to use here -->
     <camel.version>2.19.1</camel.version>
-    <karaf.version>4.0.8</karaf.version>
+    <karaf.version>4.2.2-SNAPSHOT</karaf.version>
     <fabric8.version>2.3.2</fabric8.version>
 
     <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
