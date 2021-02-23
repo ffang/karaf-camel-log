@@ -208,7 +208,7 @@
                                     </property>
                                     <property>
                                       <name>rht.comp</name>
-                                      <value>camel-karaf-log</value>
+                                      <value>karaf-camel-log</value>
                                     </property>
                                     <property>
                                       <name>rht.comp_ver</name>
